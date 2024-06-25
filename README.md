@@ -1,3 +1,8 @@
+## how to use
+> git clone git@github.com:masterchange13/tmux-tutorial.git
+> sudo cp tmux.conf ~/.tmux.conf
+> source ~/.tumx.conf
+
 # tmux-tutorial
 Tutorial Link: [Youtube](https://www.youtube.com/watch?v=8CFmwNtW8M4), [Bilibili](https://www.bilibili.com/video/BV1Mj411N7xS/)
 ## Installation:
@@ -17,7 +22,7 @@ Feel free to set your own alias
 
 ## My Session Shortcut
 Remember to use these shortcuts <strong>inside a tmux session</strong>, not normal terminal. <br/>
-My prefix key is `Ctrl-b` or `C-b`, you can map it other keys.<br/> 
+My prefix key is `Ctrl-x` or `C-x`, you can map it other keys.<br/> 
 All key remappings and options setting go into `~/.tmux.conf`, remember to <strong>source this config file</strong> every time you make changes.
 | Shortcut | Description |
 | ---- | -------- |
