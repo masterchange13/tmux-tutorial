@@ -1,7 +1,7 @@
 ## how to use
-> git clone git@github.com:masterchange13/tmux-tutorial.git
-> sudo cp tmux.conf ~/.tmux.conf
-> source ~/.tumx.conf
+> git clone git@github.com:masterchange13/tmux-tutorial.git<br/>
+> sudo cp tmux.conf ~/.tmux.conf<br/>
+> source ~/.tumx.conf<br/>
 
 # tmux-tutorial
 Tutorial Link: [Youtube](https://www.youtube.com/watch?v=8CFmwNtW8M4), [Bilibili](https://www.bilibili.com/video/BV1Mj411N7xS/)
