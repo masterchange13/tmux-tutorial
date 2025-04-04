@@ -1,8 +1,8 @@
 ## how to use
-> git clone git@github.com:masterchange13/tmux-tutorial.git<br/>
+> git clone https://github.com/masterchange13/tmux-tutorial.git<br/>
 > cd tmux-tutorial<br/>
 > sudo cp tmux.conf ~/.tmux.conf<br/>
-> source ~/.tumx.conf<br/>
+> source ~/.tmux.conf<br/>
 
 # tmux-tutorial
 Tutorial Link: [Youtube](https://www.youtube.com/watch?v=8CFmwNtW8M4), [Bilibili](https://www.bilibili.com/video/BV1Mj411N7xS/)
